@@ -25,12 +25,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26df4d4e-713a-48cf-a685-640bf075edd6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/from/oracle/tutorials/top/level/demo/TopLevelDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/swing/rendering/fundamentals/highlighted/button/HighlightedButton.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/swing/rendering/fundamentals/oval/compoment/OvalComponent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/swing/rendering/fundamentals/translucent/button/TranslucentButton.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FilthyRichClients.iml" afterPath="$PROJECT_DIR$/FilthyRichClients.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FilthyRichClients.ipr" afterPath="$PROJECT_DIR$/FilthyRichClients.ipr" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/custom/examples/ClownButton.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/swing/rendering/fundamentals/freeze/edt/FreezeEDT.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/swing/rendering/fundamentals/safe/repaint/SafeComponent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/swing/rendering/fundamentals/safe/repaint/SafeRepaint.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/swing/rendering/fundamentals/swing/threading/SwingThreading.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/swing/rendering/fundamentals/swingthreading/wait/SwingThreadingWait.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FilthyRichClients.iws" afterPath="$PROJECT_DIR$/FilthyRichClients.iws" />
     </list>
     <ignored path="FilthyRichClients.iws" />
@@ -89,28 +89,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="OvalComponent.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/swing/rendering/fundamentals/oval/compoment/OvalComponent.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="18" selection-start="457" selection-end="457" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="HighlightedButton.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/swing/rendering/fundamentals/highlighted/button/HighlightedButton.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="116" selection-start="1317" selection-end="1317" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TranslucentButton.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/swing/rendering/fundamentals/translucent/button/TranslucentButton.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="56" selection-start="1466" selection-end="1466" vertical-scroll-proportion="0.6666667">
+            <state line="40" column="14" selection-start="1324" selection-end="1324" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -119,9 +101,31 @@
       <file leaf-file-name="TopLevelDemo.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/from/oracle/tutorials/top/level/demo/TopLevelDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="7" selection-start="674" selection-end="674" vertical-scroll-proportion="0.0">
+            <state line="22" column="25" selection-start="532" selection-end="532" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OvalComponent.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/swing/rendering/fundamentals/oval/compoment/OvalComponent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="16" selection-start="719" selection-end="719" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClownButton.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/custom/examples/ClownButton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="51" column="63" selection-start="1569" selection-end="1569" vertical-scroll-proportion="1.0215462">
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#427#535#0" expanded="true" />
+                <element signature="e#524#525#0" expanded="true" />
+                <element signature="e#1416#1609#0" expanded="true" />
+                <element signature="e#1590#1591#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -144,8 +148,17 @@
         <option value="$PROJECT_DIR$/src/swing/rendering/fundamentals/highlighted/button/HighlightedButton.java" />
         <option value="$PROJECT_DIR$/src/swing/rendering/fundamentals/translucent/button/TranslucentButton.java" />
         <option value="$PROJECT_DIR$/src/from/oracle/tutorials/top/level/demo/TopLevelDemo.java" />
+        <option value="$PROJECT_DIR$/src/swing/rendering/fundamentals/swing/threading/SwingThreading.java" />
+        <option value="$PROJECT_DIR$/src/swing/rendering/fundamentals/freeze/edt/FreezeEDT.java" />
+        <option value="$PROJECT_DIR$/src/swing/rendering/fundamentals/swingthreading/wait/SwingThreadingWait.java" />
+        <option value="$PROJECT_DIR$/src/swing/rendering/fundamentals/safe/repaint/SafeComponent.java" />
+        <option value="$PROJECT_DIR$/src/swing/rendering/fundamentals/safe/repaint/SafeRepaint.java" />
+        <option value="$PROJECT_DIR$/src/custom/examples/ClownButton.java" />
       </list>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-4" />
@@ -179,16 +192,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -246,6 +249,10 @@
               <option name="myItemId" value="fundamentals" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wait" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -258,6 +265,160 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fundamentals" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="threading" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FilthyRichClients" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FilthyRichClients" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fundamentals" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="repaint" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FilthyRichClients" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FilthyRichClients" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fundamentals" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="compoment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FilthyRichClients" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FilthyRichClients" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fundamentals" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="button" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FilthyRichClients" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FilthyRichClients" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fundamentals" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="edt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FilthyRichClients" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FilthyRichClients" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FilthyRichClients" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FilthyRichClients" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FilthyRichClients" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FilthyRichClients" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="examples" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -277,6 +438,16 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="Libraries" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -301,15 +472,103 @@
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.TranslucentButton">
-    <configuration default="false" name="TopLevelDemo" type="Application" factoryName="Application" temporary="true">
+  <component name="RunManager" selected="Application.ClownButton">
+    <configuration default="false" name="FreezeEDT" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="from.oracle.tutorials.top.level.demo.*" />
+          <option name="PATTERN" value="swing.rendering.fundamentals.freeze.edt.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="from.oracle.tutorials.top.level.demo.TopLevelDemo" />
+      <option name="MAIN_CLASS_NAME" value="swing.rendering.fundamentals.freeze.edt.FreezeEDT" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="FilthyRichClients" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="SwingThreading" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="swing.rendering.fundamentals.swing.threading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="swing.rendering.fundamentals.swing.threading.SwingThreading" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="FilthyRichClients" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="SwingThreadingWait" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="swing.rendering.fundamentals.swingthreading.wait.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="swing.rendering.fundamentals.swingthreading.wait.SwingThreadingWait" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="FilthyRichClients" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="SafeRepaint" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="swing.rendering.fundamentals.safe.repaint.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="swing.rendering.fundamentals.safe.repaint.SafeRepaint" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="FilthyRichClients" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ClownButton" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="custom.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="custom.examples.ClownButton" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -510,11 +769,15 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <list size="4">
+    <list size="8">
       <item index="0" class="java.lang.String" itemvalue="Application.OvalComponent" />
       <item index="1" class="java.lang.String" itemvalue="Application.HighlightedButton" />
       <item index="2" class="java.lang.String" itemvalue="Application.TranslucentButton" />
-      <item index="3" class="java.lang.String" itemvalue="Application.TopLevelDemo" />
+      <item index="3" class="java.lang.String" itemvalue="Application.FreezeEDT" />
+      <item index="4" class="java.lang.String" itemvalue="Application.SwingThreading" />
+      <item index="5" class="java.lang.String" itemvalue="Application.SwingThreadingWait" />
+      <item index="6" class="java.lang.String" itemvalue="Application.SafeRepaint" />
+      <item index="7" class="java.lang.String" itemvalue="Application.ClownButton" />
     </list>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
@@ -572,10 +835,10 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1875" sideWeight="0.7641278" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23587224" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1875" sideWeight="0.7641278" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23587224" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -642,29 +905,87 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/swing/rendering/fundamentals/oval/compoment/OvalComponent.java">
+    <entry file="file://$PROJECT_DIR$/src/swing/rendering/fundamentals/safe/repaint/SafeRepaint.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="18" selection-start="457" selection-end="457" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/swing/rendering/fundamentals/highlighted/button/HighlightedButton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="116" selection-start="1317" selection-end="1317" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/from/oracle/tutorials/top/level/demo/TopLevelDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="7" selection-start="674" selection-end="674" vertical-scroll-proportion="0.0">
+        <state line="13" column="50" selection-start="262" selection-end="262" vertical-scroll-proportion="0.13784136">
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#492#805#0" expanded="true" />
+            <element signature="e#794#795#0" expanded="true" />
+            <element signature="e#903#1074#0" expanded="true" />
+            <element signature="e#1063#1064#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swing/rendering/fundamentals/swingthreading/wait/SwingThreadingWait.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="50" selection-start="1677" selection-end="1677" vertical-scroll-proportion="0.22626787">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swing/rendering/fundamentals/swing/threading/SwingThreading.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="92" selection-start="1548" selection-end="1548" vertical-scroll-proportion="0.56907475">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swing/rendering/fundamentals/freeze/edt/FreezeEDT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="0" selection-start="1517" selection-end="1517" vertical-scroll-proportion="0.52598226">
+          <folding>
+            <marker date="1373026690790" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swing/rendering/fundamentals/safe/repaint/SafeComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="1" selection-start="416" selection-end="416" vertical-scroll-proportion="0.40937895">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/swing/rendering/fundamentals/translucent/button/TranslucentButton.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="56" selection-start="1466" selection-end="1466" vertical-scroll-proportion="0.6666667">
+        <state line="1" column="17" selection-start="57" selection-end="57" vertical-scroll-proportion="-0.5944233">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swing/rendering/fundamentals/highlighted/button/HighlightedButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="14" selection-start="1324" selection-end="1324" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swing/rendering/fundamentals/oval/compoment/OvalComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="16" selection-start="719" selection-end="719" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/from/oracle/tutorials/top/level/demo/TopLevelDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="25" selection-start="532" selection-end="532" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/custom/examples/ClownButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="63" selection-start="1569" selection-end="1569" vertical-scroll-proportion="1.0215462">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#427#535#0" expanded="true" />
+            <element signature="e#524#525#0" expanded="true" />
+            <element signature="e#1416#1609#0" expanded="true" />
+            <element signature="e#1590#1591#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
