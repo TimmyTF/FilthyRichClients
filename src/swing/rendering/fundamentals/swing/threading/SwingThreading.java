@@ -32,25 +32,6 @@ public class SwingThreading extends JFrame implements ActionListener {
         setDefaultCloseOperation(EXIT_ON_CLOSE);
     }
 
-    public void actionPerformed(ActionEvent e) {
-        incrementLabel();
-    }
-
-    private void incrementLabel() {
-        tickCounter++;
-        Runnable code = new Runnable() {
-            public void run() {
-                counter.setText(String.valueOf(tickCounter));
-            }
-        };
-
-        if (SwingUtilities.isEventDispatchThread()) {
-            code.run();
-        } else {
-            SwingUtilities.invokeLater(code);
-        }
-    }
-
     public static void main(String... args) {
         SwingUtilities.invokeLater(new Runnable() {
             public void run() {
@@ -70,5 +51,24 @@ public class SwingThreading extends JFrame implements ActionListener {
                 }).start();
             }
         });
+    }
+
+    public void actionPerformed(ActionEvent e) {
+        incrementLabel();
+    }
+
+    private void incrementLabel() {
+        tickCounter++;
+        Runnable code = new Runnable() {
+            public void run() {
+                counter.setText(String.valueOf(tickCounter));
+            }
+        };
+
+        if (SwingUtilities.isEventDispatchThread()) {
+            code.run();
+        } else {
+            SwingUtilities.invokeLater(code);
+        }
     }
 }
